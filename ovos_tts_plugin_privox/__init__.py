@@ -36,7 +36,12 @@ class PrivoxTTS(TTS):
         return {"en-us"}
 
 
-PrivoxTTSConfig = {}
+PrivoxTTSConfig = {
+    "en-us": [
+        {"gender": "male", "voice": "voice1", "key": "3C338479FCA6AF07"},
+        {"gender": "frmale", "voice": "voice2", "key": "3C338479FCA6AF07"}
+    ]
+}
 
 if __name__ == "__main__":
     t = PrivoxTTS()
