@@ -38,8 +38,8 @@ class PrivoxTTS(TTS):
 
 PrivoxTTSConfig = {
     "en-us": [
-        {"gender": "male", "voice": "voice1", "key": "3C338479FCA6AF07"},
-        {"gender": "female", "voice": "voice2", "key": "3C338479FCA6AF07"}
+        {"gender": "male", "voice": "voice1", "key": "F527A05CF5A98310"},
+        {"gender": "female", "voice": "voice2", "key": "F527A05CF5A98310"}
     ]
 }
 
