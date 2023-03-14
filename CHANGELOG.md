@@ -1,5 +1,9 @@
 # Changelog
 
+## [V0.0.2a3](https://github.com/OpenVoiceOS/ovos-tts-plugin-privox/tree/V0.0.2a3) (2023-03-14)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-tts-plugin-privox/compare/V0.0.2a2...V0.0.2a3)
+
 ## [V0.0.2a2](https://github.com/OpenVoiceOS/ovos-tts-plugin-privox/tree/V0.0.2a2) (2023-03-14)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-tts-plugin-privox/compare/68e1d1e2c1c0cdec79c1bfdf9f7e3ca1862ef972...V0.0.2a2)
